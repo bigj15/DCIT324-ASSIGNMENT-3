@@ -3,6 +3,9 @@
 # dependencies
 node_modules/
 
+# assistant workspace
+.claude/
+
 # Expo
 .expo/
 dist/
